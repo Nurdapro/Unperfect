@@ -22,18 +22,29 @@ Each year, tons of perfectly edible but visually "imperfect" produce go to waste
 
 ## 🖼️ Screenshots
 
-> All images are stored in the `/images` folder
+### 🏠 Landing Page
+![Index](images/index.png)
 
-| Screenshot | Description |
-|------------|-------------|
-| `images/index.png` | 🏠 Landing page with our slogan and welcome message |
-| `images/main.png` | 🌿 Highlights the environmental problem we solve |
-| `images/order.png` | 📦 Simple form to place product or compost orders |
-| `images/register.png` | 📝 Registration form |
-| `images/verify.png` | 📧 Email verification step (code sent via Brevo) |
-| `images/login.png` | 🔐 Login page |
-| `images/ac.png` | 👤 User dashboard showing orders and eco-achievements |
-| `images/about.png` | 📄 Page explaining our mission and idea |
+### 🌿 Problem Description
+![Main](images/main.png)
+
+### 📦 Order Form
+![Order](images/order.png)
+
+### 📝 Registration Page
+![Register](images/register.png)
+
+### 📧 Email Verification (via Brevo)
+![Verify](images/verify.png)
+
+### 🔐 Login Page
+![Login](images/login.png)
+
+### 👤 User Dashboard
+![Account](images/ac.png)
+
+### 📄 About the Project
+![About](images/about.png)
 
 ---
 
